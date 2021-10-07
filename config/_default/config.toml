@@ -12,6 +12,8 @@ DefaultContentLanguage = "en"
 # [languages]
 # config/_default/languages.toml
 
+publishDir="docs"
+
 # [menus]
 # config/_default/menus/menu.xx.toml
 
